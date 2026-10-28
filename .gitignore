@@ -1,0 +1,18 @@
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+env/
+.venv/
+
+# Local backup
+Main_backup.py
+
+# Editor and operating-system files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Do not upload datasets until their source and license are confirmed
+Dataset/
